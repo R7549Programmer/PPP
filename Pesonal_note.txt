@@ -1,0 +1,5 @@
+Don't forget the rest of your repos in your peronal account: 
+to reach it .. remember !
+one of those repo : was written in Python language and has been created since the beginning of 2024.
+It has an Apache License Version 2.0, is under the "subdir" dir, has 1 follower, 1 star, and has the word "fun!" in its description.
+it does't have "Tool" word.
